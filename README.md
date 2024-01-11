@@ -10,5 +10,5 @@
 
 ## Repository structure
 
-*   src - rtl source code
-*   tb - test bench for modules
+*   src<!--(./src/)--> - rtl source code
+*   tb<!--(./tb/)--> - test bench for modules
